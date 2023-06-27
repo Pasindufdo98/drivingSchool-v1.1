@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,600;1,300&display=swap');
+#sub{
+    border-radius: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: 'Montserrat', sans-serif;
+    font-style: bold;
+}
+
+.btn-disabled {
+    pointer-events: none;
+    opacity: 0.5;
+    /* Add any additional styling you want to apply to the disabled button */
+  }
